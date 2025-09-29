@@ -1,0 +1,4 @@
+Tahapan: 
+1. Belajar Repo
+2. Belajar Commit
+3. Belajar Merge
