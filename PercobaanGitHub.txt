@@ -2,5 +2,5 @@ Tahapan:
 1. Belajar Repo
 2. Belajar Commit
 3. Belajar Merge
-4. Belajar Config
 5. Belajar Tools
+6. Belajar Cloud
